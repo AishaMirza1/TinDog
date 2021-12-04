@@ -283,6 +283,33 @@ font-size: 40px;
 }
 }
 
+@media (max-width:500px) {
+  .cta-btn-1{
+      left: 40%;
+  }
+  .cta-btn-2{
+     left: 40%;
+     top: 30%
+  }
+  #pricid-card2{
+    margin-bottom: 20px;
+  }
+  .testimonial-img{
+    width: 20%;
+    
+  }
+  #features{
+    height: 80vh;
+    
+  }
+  .title-img{
+    top: 400%;
+    margin: 0 auto;
+    height: 65vh;
+ }
+
+}
+
 
 
 
