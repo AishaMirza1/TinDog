@@ -285,27 +285,29 @@ font-size: 40px;
 
 @media (max-width:500px) {
   .cta-btn-1{
-      left: 40%;
-  }
+    left: 10%;
+    
+ }
   .cta-btn-2{
-     left: 40%;
-     top: 30%
+     left: 60%;
+     
   }
-  #pricid-card2{
-    margin-bottom: 20px;
+  #pricing-card2{
+    margin-bottom: 50px;
   }
   .testimonial-img{
     width: 20%;
     
   }
   #features{
-    height: 80vh;
+    height: 83vh;
     
   }
   .title-img{
     top: 400%;
     margin: 0 auto;
-    height: 65vh;
+    height: 80vh;
+    left: 20%;
  }
 
 }
