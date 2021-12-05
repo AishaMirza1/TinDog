@@ -246,17 +246,17 @@ font-size: 40px;
 }
 .h-btn1{
   position: absolute;
-  left: 25%;
+  left: 10%;
 }
 .h-btn2{
    position: absolute;
-   left: 90%;
+   left: 65%;
 } 
 .cta-btn-1{
-  left: 40%;
+  left: 25%;
 }
 .cta-btn-2{
-  left: 80%;
+  left: 50%;
 }
   
 }
