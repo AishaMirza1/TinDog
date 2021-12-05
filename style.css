@@ -235,7 +235,7 @@ font-size: 40px;
    height: 190vh;
 }
 .title-img{
-   top: 500%;
+   top: 300%;
    left: 34%;
    height: 85vh;
 }
@@ -250,13 +250,13 @@ font-size: 40px;
 }
 .h-btn2{
    position: absolute;
-   left: 70%;
+   left: 90%;
 } 
 .cta-btn-1{
-  left: 20%;
+  left: 40%;
 }
 .cta-btn-2{
-  left: 60%;
+  left: 80%;
 }
   
 }
