@@ -374,7 +374,7 @@ font-size: 40px;
      font-size: 14px;
     }
   .title-img{
-    top: 0;
+    top: 70%;
     height: 70vh;
     width:240px ;
     
@@ -394,6 +394,9 @@ font-size: 40px;
     line-height: 1;
 
    }
+   #pricing-card2{
+     margin-bottom: 50%;
+   }
    #cta{
     height: 70vh;
     
@@ -405,7 +408,7 @@ font-size: 40px;
     
  }
   .cta-btn-2{
-     left: 49%;
+     left: 56%;
      width: 40%;
      font-size: 14px;
   }
