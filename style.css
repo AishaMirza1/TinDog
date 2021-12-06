@@ -368,13 +368,13 @@ font-size: 40px;
     width: 50%;
     font-size: 14px;
     }
-    .h-btn2{
+  .h-btn2{
      left: 50%;
      width: 50%;
      font-size: 14px;
-    }
+  }
   .title-img{
-    top: 70%;
+    top: 80%;
     height: 70vh;
     width:240px ;
     
@@ -408,7 +408,7 @@ font-size: 40px;
     
  }
   .cta-btn-2{
-     left: 56%;
+     left: 59%;
      width: 40%;
      font-size: 14px;
   }
